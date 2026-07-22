@@ -7,7 +7,7 @@ I build ML systems that don't just predict outcomes — they explain **why**, an
 
 [![Email](https://img.shields.io/badge/Email-meaninditadeb4%40gmail.com-2B59FF?style=flat-square&logo=gmail&logoColor=white)](mailto:meaninditadeb4@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anindita--deb-2B59FF?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anindita-deb-944317222)
-[![Portfolio](https://img.shields.io/badge/Portfolio-live%20site-FF6B4A?style=flat-square&logo=vercel&logoColor=white)](https://meaninditadeb2-eng.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-live%20site-FF6B4A?style=flat-square&logo=vercel&logoColor=white)](https://meaninditadeb2-eng.github.io/Portfolio/)
 
 </div>
 
